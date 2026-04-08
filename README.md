@@ -38,9 +38,3 @@
 ### Projetos
 
 > Em breve! Estou desenvolvendo meus primeiros projetos.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=D0mar&color=blue&style=flat-square&label=Visitas+ao+perfil" />
-</p>
