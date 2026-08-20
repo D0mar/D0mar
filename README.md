@@ -18,8 +18,8 @@
 ### Sobre mim
 
 - Cursando **Análise e Desenvolvimento de Sistemas**
-- Estudando **HTML, CSS e JavaScript**
-- Interessado por **design de interfaces** e experiência do usuário
+- Estudando **HTML, CSS, JavaScript, C e Python**
+- Interessado por **UI/UX**
 - Sempre buscando aprender e evoluir como desenvolvedor
 
 ---
