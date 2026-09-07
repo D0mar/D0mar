@@ -19,7 +19,7 @@
 
 - Cursando **Análise e Desenvolvimento de Sistemas**
 - Estudando **HTML, CSS, JavaScript, C e Python**
-- Interessado por **UI/UX**
+- Buscando me desenvolver em **diferentes áreas** da programação
 - Sempre buscando aprender e evoluir como desenvolvedor
 
 ---
