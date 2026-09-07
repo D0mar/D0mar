@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Igor!</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Aprendendo Front-end (HTML, CSS & JS)
+  Estudante de Análise e Desenvolvimento de Sistemas | Full-stack em formação (C, Python, JavaScript, HTML & CSS)
 </p>
 
 <p align="center">
